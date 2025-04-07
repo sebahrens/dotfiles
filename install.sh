@@ -12,8 +12,8 @@ ln -sf "$(pwd)/.tmux.conf" "$HOME/.tmux.conf"
 ln -sf "$(pwd)/.tmux" "$HOME/.tmux"
 
 # Additional configs
-ln -sf "$(pwd)/.bashrc" "$HOME/.bashrc"
-ln -sf "$(pwd)/.zshrc" "$HOME/.zshrc"
+#ln -sf "$(pwd)/.bashrc" "$HOME/.bashrc"
+#ln -sf "$(pwd)/.zshrc" "$HOME/.zshrc"
 # Add more symlinks as needed
 
 # Install tmux plugin manager if not already installed
