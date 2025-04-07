@@ -1,0 +1,11 @@
+# Ignore plugin directories that will be installed by package managers
+.config/nvim/plugged/
+.config/nvim/pack/
+.config/nvim/.netrwhist
+.config/nvim/plugin/packer_compiled.lua
+.config/nvim/lazy-lock.json
+
+# Ignore tmux plugins and resurrect data
+.tmux/plugins/*
+!.tmux/plugins/tpm
+.tmux/resurrect/
