@@ -11,3 +11,4 @@
 .tmux/resurrect/
 # Exclude personal shell configuration
 .zshrc
+.zshrc
